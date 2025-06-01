@@ -16,12 +16,12 @@ Ce projet a été réalisé dans le cadre d’un devoir pratique de développeme
 
 ## 🗂️ Pages disponibles
 
-| Page        | Description |
-|-------------|-------------|
-| 🏠 Accueil  | Page d’accueil avec slogan, image, bouton d’appel à l’action, mise en avant des produits |
-| 🧑‍🌾 À propos | Présentation de l’entreprise, mission, valeurs, et équipe |
-| 🛒 Produits | Page boutique avec les 3 kits de plantation (Tournesol, Coquelicot, Trèfle) |
-| ✉️ Contact | Formulaire de contact + carte Google Maps intégrée |
+| Page        | Description                                                                               |
+|-------------|-------------------------------------------------------------------------------------------|
+| 🏠 Accueil  | Page d’accueil avec slogan, image, bouton d’appel à l’action, mise en avant des produits  |
+| 🧑‍🌾 À propos | Présentation de l’entreprise, mission, valeurs, et équipe                                 |
+| 🛒 Produits | Page boutique avec les 3 kits de plantation (Tournesol, Coquelicot, Trèfle)               |
+| ✉️ Contact  | Formulaire de contact + carte Google Maps intégrée                                        |
 
 ---
 
@@ -53,7 +53,7 @@ Ce projet a été réalisé dans le cadre d’un devoir pratique de développeme
 ## 🛍️ Produits présentés
 
 | Nom du produit                     | Description courte                             |
-|----------------------------------- |-------------------------------------------------|
+|----------------------------------- |------------------------------------------------|
 | 🌻 Tournesol                      | Kit de plantation bio en pot de céramique       |
 | 🌺 Coquelicot                     | Mini kit de plantation avec graines bio         |
 | 🍀 Trèfle                         | Kit de jardinage 100 % naturel prêt à l’emploi  |
